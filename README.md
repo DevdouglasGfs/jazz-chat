@@ -8,6 +8,13 @@ Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](
 npx create-expo-app -e with-tailwindcss
 ```
 
+## How start the server
+```sh
+npx jazz-run sync -p 4000
+```
+
+> Issue when connecting the local server: Maybe necessary to use a proxy (e.g. `ngrok`) to connect with your server.
+
 ## Deploy
 
 Deploy on all platforms with Expo Application Services (EAS).
