@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "scheme": "jazz-chat",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "web": {
+      "output": "static"
+    },
+    "plugins": [
+      "expo-secure-store",
+      ["expo-router", { "origin": "https://n" }],
+      ["expo-sqlite", { "useSQLCipher": true }]
+    ],
+    "name": "jazz-chat",
+    "slug": "jazz-chat",
+    "android": {
+      "package": "com.devzinhoshadow.jazz_chat"
+    },
+    "ios": {
+      "bundleIdentifier": "com.devzinhoshadow.jazz_chat"
+    }
+  }
+}
