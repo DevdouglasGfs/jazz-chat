@@ -14,10 +14,10 @@
     "name": "jazz-chat",
     "slug": "jazz-chat",
     "android": {
-      "package": "com.devzinhoshadow.jazz_chat"
+      "package": "com.devzinhoshadow.jazzchat"
     },
     "ios": {
-      "bundleIdentifier": "com.devzinhoshadow.jazz_chat"
+      "bundleIdentifier": "com.devzinhoshadow.jazzchat"
     }
   }
 }
